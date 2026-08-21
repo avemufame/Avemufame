@@ -20,7 +20,7 @@ Here are the technologies I am actively working with and expanding my knowledge 
 * 🐙 **Version Control:** [Git & GitHub](https://git-scm.com)
 
 ### 🔗 Connect With Me
-* 📬 Reach out via Email: `avemdedign@gmail.com`
+* 📬 Reach out via Email: `avemdesign@gmail.com`
 
 ---
 *“An investment in knowledge always pays the best interest.” – Thank you for visiting my profile!*
