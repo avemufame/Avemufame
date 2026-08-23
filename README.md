@@ -19,6 +19,14 @@ Here are the technologies I am actively working with and expanding my knowledge 
 * 🛠️ **Environment & Package Managers:** Node.js & npm (Development Environment)
 * 🐙 **Version Control:** [Git & GitHub](https://git-scm.com)
 
+### 🛠️ Featured Projects
+
+#### 🎵 Songbook Project & LyricFlow Workspace
+A desktop-first application designed for musicians and producers, focused on the modular management of lyrics, chords, and musical metadata.
+* **UI Architecture**: Implementation of a responsive, three-column macro-layout based on Mantine AppShell with state-driven side panels.
+* **State & Persistence**: Management of React lifecycles using lazy initialization and persistent data synchronization through browser caching mechanisms.
+* **Next Milestones (WIP)**: Development of a hierarchical storage engine based on a structured JSON schema to emulate local project folders, as described in the application blueprint.
+
 ### 🔗 Connect With Me
 * 📬 Reach out via Email: `avemdesign@gmail.com`
 
