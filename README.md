@@ -28,7 +28,7 @@ A desktop-first application designed for musicians and producers, focused on the
 * **Next Milestones (WIP)**: Development of a hierarchical storage engine based on a structured JSON schema to emulate local project folders, as described in the application blueprint.
 
 ### 🔗 Connect With Me
-* 📬 Reach out via Email: `avemdesign@gmail.com`
+* 📬 Reach out via Email: `avemdesign@gmail.com`, `avem00@yahoo.it`
 
 ---
 *“An investment in knowledge always pays the best interest.” – Thank you for visiting my profile!*
