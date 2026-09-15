@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marco Marco Avellone
+# 👋 Hi, I'm Marco Avellone
 ### 🚀 About Me
 I am an aspiring Frontend Developer currently dedicating my time to studying core web technologies and modern frameworks. My main goal right now is to build a solid foundation, continuously learn new skills, and grow into a reliable Junior Developer. 
 
